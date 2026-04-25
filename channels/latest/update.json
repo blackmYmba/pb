@@ -3,6 +3,6 @@
   "versionName": "1.0",
   "mandatory": true,
   "apkUrl": "https://github.com/blackmYmba/pb/releases/download/v1.0.0/app-release.apk",
-  "sha256": "PASTE_SHA256_HERE",
+  "sha256": "4f37dc0cf135b28b58f5d004ade5c7f21ab8100f50bc19cff32eadb7248af89b",
   "minSupportedVersionCode": 1
 }

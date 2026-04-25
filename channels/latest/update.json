@@ -2,7 +2,7 @@
   "versionCode": 2,
   "versionName": "1.0.1",
   "mandatory": true,
-  "apkUrl": "https://github.com/blackmYmba/pb/releases/download/v1.0.1/sdk-prod-1-0-1.apk",
-  "sha256": "4f37dc0cf135b28b58f5d004ade5c7f21ab8100f50bc19cff32eadb7248af89b",
+  "apkUrl": "https://github.com/blackmYmba/pb/releases/download/v1.0.1/composeApp-release.apk",
+  "sha256": "509b00d57d41564e8f810f0506e3e85561df52a7be6f41346e05ccb2e1010d73",
   "minSupportedVersionCode": 1
 }

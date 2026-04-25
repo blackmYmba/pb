@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "mandatory": true,
+  "apkUrl": "https://github.com/blackmYmba/pb/releases/download/v1.0.0/app-release.apk",
+  "sha256": "PASTE_SHA256_HERE",
+  "minSupportedVersionCode": 1
+}

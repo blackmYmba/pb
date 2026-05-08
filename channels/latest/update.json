@@ -1,8 +1,8 @@
 {
- "versionCode": 4,
- "versionName": "1.0.3",
+ "versionCode": 5,
+ "versionName": "1.0.4",
  "mandatory": true,
- "apkUrl": "https://github.com/blackmYmba/pb/releases/download/v1.0.3/composeApp-release.apk",
- "sha256": "99c935463dda100a774fd07e87e310e8b360c2e519cbb19bb26bd7c3c9bd93cd",
+ "apkUrl": "https://github.com/blackmYmba/pb/releases/download/v1.0.4/composeApp-release.apk",
+ "sha256": "97f05d642d1cdbddecdd3fa6137244ff1f5d70da102670427d6ea8c4e46f106e",
  "minSupportedVersionCode": 1
 }

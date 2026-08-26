@@ -1,8 +1,8 @@
 {
- "versionCode": 5,
- "versionName": "1.0.4",
+ "versionCode": 13,
+ "versionName": "1.0.8",
  "mandatory": true,
- "apkUrl": "https://github.com/blackmYmba/pb/releases/download/v1.0.4/composeApp-release.apk",
- "sha256": "97f05d642d1cdbddecdd3fa6137244ff1f5d70da102670427d6ea8c4e46f106e",
+ "apkUrl": "https://storage.yandexcloud.net/gete-files-prod/pos_app/GetEnergy_horizontal_1.0.8_prod.apk",
+ "sha256": "ddc3cd7d28143d116986f0eeb19db0a6eb574d8307540a2009ae68f651b57591",
  "minSupportedVersionCode": 1
 }

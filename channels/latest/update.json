@@ -1,8 +1,8 @@
 {
- "versionCode": 13,
- "versionName": "1.0.8",
+ "versionCode": 16,
+ "versionName": "1.0.11",
  "mandatory": true,
- "apkUrl": "https://storage.yandexcloud.net/gete-files-prod/pos_app/GetEnergy_horizontal_1.0.8_prod.apk",
- "sha256": "ddc3cd7d28143d116986f0eeb19db0a6eb574d8307540a2009ae68f651b57591",
+ "apkUrl": "https://storage.yandexcloud.net/gete-files-prod/pos_app/GetEnergy_horizontal_1.0.11_prod.apk",
+ "sha256": "17c9c7e3dc13bb122d5bb356a47a6cda020262333ca47f8f9bc224ca29b5c70",
  "minSupportedVersionCode": 1
 }
